@@ -1,8 +1,8 @@
 module github.com/sjswerdlow/addlicense
 
-go 1.13
+go 1.21
 
 require (
-	github.com/bmatcuk/doublestar/v4 v4.0.2
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	github.com/bmatcuk/doublestar/v4 v4.6.0
+	golang.org/x/sync v0.3.0
 )
